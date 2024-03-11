@@ -58,8 +58,8 @@ body {
     font-size: 18px;
     color: #E5E7EB;
     opacity: 0.8; 
-    height: 15%;
-    font-weight: 200;
+    height: 28%;
+    width: 50%;
 }
 
 button {
@@ -190,4 +190,42 @@ button {
     font-size: 20px;
     width: 20%;
     margin: 0px 0px 0px 850px;
+}
+
+.signuplink {
+    margin: 75px 0px 100px 175px;
+    padding: 35px 0px 25px 0px; 
+    width: 75%;
+    border-radius: 8px;
+    background-color: #3882F6;
+}
+
+.signup1 {
+    width: 50%;
+    margin: 0px 0px 0px 350px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #F9FAF8;
+    
+}
+.signup2 {
+    width: 50%;
+    margin: 0px 0px 0px 350px;
+    color: #F9FAF8;
+    opacity: 0.7;
+}
+
+.button2 {
+    border: 2px solid #F9FAF8;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    margin: 0px 0px 0px 800px;
+}
+
+.container5 {
+    text-align: center;
+    border: 2px solid black;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 10px 0px 10px 0px;
 }
