@@ -67,10 +67,12 @@ button {
     color: white;
     border: #3882F6;
     border-radius: 5px;
-    padding: 5px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-top: 5px;
+    padding-left: 24px;
+    padding-right: 24px;
     padding-bottom: 5px;   
+    font-weight: 600;
+    font-size: 12px;
 }
 
 .placeholder {
@@ -86,4 +88,106 @@ button {
 
 .maintext1 {
     display: flex;
+}
+
+.container2 {
+    margin-top: 50px;
+    font-size: 36px;
+    font-weight: 600;
+    color: #1F2937;
+    text-align: center;
+}
+
+.illustration {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.pic1 {
+    border: 3px solid #3882F6;
+    padding: 80px 80px 80px 80px;
+    border-radius: 15px;
+}
+
+.pic2 {
+    border: 3px solid #3882F6;
+    padding: 80px 80px 80px 80px;
+    border-radius: 15px;
+}
+
+.pic3 {
+    border: 3px solid #3882F6;
+    padding: 80px 80px 80px 80px;
+    border-radius: 15px;
+}
+
+.pic4 {
+    border: 3px solid #3882F6;
+    padding: 80px 80px 80px 80px;
+    border-radius: 15px;
+}
+
+.subtext {
+    display: flex;
+}
+
+.subtext1 {
+    margin: -10px 0px 0px 164px;
+    width: 10%;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+}
+
+.subtext2 {
+    margin: -10px 0px 0px 180px;
+    padding: 0px 0px 0px 0px;
+    width: 10%;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+}
+
+.subtext3 {
+    margin: -10px 0px 0px 177px;
+    padding: 0px 0px 0px 0px;
+    width: 10%;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6; 
+}
+
+.subtext4 { 
+    margin: -10px 0px 0px 184px;
+    padding: 0px 0px 0px 0px;
+    width: 10%;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+}
+
+.container3 {
+    margin: 100px 0px 0px 0px;
+    background-color: #E5E7EB;
+    padding: 50px 0px 100px 0px;
+}
+
+.quote {
+
+}
+
+.quote1 {
+    font-size: 36px;
+    font-style: italic;
+    text-align: left;
+    width: 50%;
+    margin: 100px 0px 12px 375px;
+}
+
+.quote2 {
+    font-weight: 900;
+    font-size: 20px;
+    width: 20%;
+    margin: 0px 0px 0px 850px;
 }
